@@ -1,2 +1,0 @@
-no pipes, no enemies, many blocks, low elevation
-no pipes, some enemies, many blocks, low elevation
